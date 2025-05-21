@@ -135,3 +135,6 @@ dmypy.json
 .vscode/
 
 examples/desktop/diffs/*.png
+
+# docs
+_gallery
